@@ -1,0 +1,3 @@
+.background-city{
+    background: url("../download.jpg") center bottom;  
+}
